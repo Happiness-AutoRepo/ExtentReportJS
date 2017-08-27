@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32405" started-at="2017-08-25T02:17:24Z" finished-at="2017-08-25T02:17:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32405" started-at="2017-08-25T02:17:24Z" finished-at="2017-08-25T02:17:56Z">
+      <class name="propertiesfile.GoogleTranslateTest2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:propertiesfile.GoogleTranslateTest2@57baeedf]" name="setup" is-config="true" duration-ms="15573" started-at="2017-08-24T22:17:24Z" finished-at="2017-08-24T22:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test()[pri:0, instance:propertiesfile.GoogleTranslateTest2@57baeedf]" name="test" duration-ms="12852" started-at="2017-08-24T22:17:39Z" finished-at="2017-08-24T22:17:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:propertiesfile.GoogleTranslateTest2@57baeedf]" name="tearDown" is-config="true" duration-ms="3960" started-at="2017-08-24T22:17:52Z" finished-at="2017-08-24T22:17:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- propertiesfile.GoogleTranslateTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
